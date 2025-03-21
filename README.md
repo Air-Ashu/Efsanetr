@@ -35,7 +35,7 @@ pip install requests colorama anticaptchaofficial
 1. **Clone the Repository**  
 
 ```bash
-git clone https://github.com/Ashuxd-X/Efsanetr.git
+git clone https://github.com/Air-Ashu/Efsanetr.git
 cd Efsanetr
 ```
 
@@ -101,5 +101,5 @@ Using this script to spam, exploit, or bypass security systems **may violate leg
 
 ## 📢 Credits  
 
-- **Developed by:** [Ashuxd-X](https://t.me/ashuxd-x)  
-- **Configuration Updated by:** [Shivam](https://t.me/shivam)  
+- **Developed by:** [Ashuxd-X](https://telegram.im/lootersera_th)  
+- **Configuration Updated by:** [Shivam](https://t.me/Shivam_jaiswal0011)  
